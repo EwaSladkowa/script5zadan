@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    margin-top: 350px;
+}
+.red{
+    color: rgb(189, 7, 7);
+}
+.blue{
+    color: rgb(0, 0, 165);
+}
+.green{
+    color: green;
+}
